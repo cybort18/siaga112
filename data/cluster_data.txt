@@ -1,6 +1,11 @@
 ada kecelakaan di flyover Cawang,6.25,106.85
 ada kecelakaan di flyover Cawang,6.26,106.86
-ada kebakaran di Jalan Sudirman,6.20,106.82
+di Jalan Margonda Raya dekat kampus UI ada orang pingsan,6.36,106.83
+di Jalan Margonda Raya dekat kampus UI ada orang pingsan,6.36,106.83
 ada banjir di daerah Senen,6.18,106.84
-ada kecelakaan di flyover Cawang,6.24,106.84
+ada banjir di daerah Senen,6.18,106.84
+ada banjir di daerah Senen,6.18,106.84
+ada kebakaran di Jalan Sudirman,6.20,106.82
+ada kebakaran di Jalan Sudirman,6.2,106.82
+ada kebakaran di Jalan Sudirman,6.2,106.82
 ada kecelakaan di flyover Cawang,6.25,106.85
