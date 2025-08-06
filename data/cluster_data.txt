@@ -9,3 +9,4 @@ ada kebakaran di Jalan Sudirman,6.20,106.82
 ada kebakaran di Jalan Sudirman,6.2,106.82
 ada kebakaran di Jalan Sudirman,6.2,106.82
 ada kecelakaan di flyover Cawang,6.25,106.85
+ada kecelakaan di flyover Cawang,6.25,106.85

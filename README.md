@@ -15,8 +15,11 @@ Proyek ini adalah sistem pintar untuk panggilan darurat 112 di Jakarta.
 
 ## Contoh Output
 Transkripsi: ada kecelakaan di flyover Cawang
+
 Jenis darurat: kecelakaan
+
 Lokasi: flyover Cawang
+
 Klaster insiden:
 Klaster 0: 2 laporan
 
