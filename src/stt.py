@@ -29,6 +29,11 @@ if __name__ == "__main__":
     text = transcribe_audio(audio_path)
     print("Transkripsi:", text)
 
+from ner import train_ner_model, extract_location
+nlp_ner = train_ner_model("data/ner_data.txt")
+location = extract_location(nlp_ner, text)
+print("Lokasi:", location)
+
 from nlp_classifier import predict_emergency, train_emergency_classifier
 classifier, vectorizer = train_emergency_classifier("data/emergency_data.txt")
 emergency_type = predict_emergency(classifier, vectorizer, text)
