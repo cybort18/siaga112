@@ -28,3 +28,8 @@ if __name__ == "__main__":
     audio_path = "data/sample_call_mono.wav"  # Lokasi file audio Anda
     text = transcribe_audio(audio_path)
     print("Transkripsi:", text)
+
+from nlp_classifier import predict_emergency, train_emergency_classifier
+classifier, vectorizer = train_emergency_classifier("data/emergency_data.txt")
+emergency_type = predict_emergency(classifier, vectorizer, text)
+print("Jenis darurat:", emergency_type)
